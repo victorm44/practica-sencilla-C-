@@ -1,0 +1,13 @@
+/Users/victor/Projects/proyecto1/proyecto1/bin/Debug/proyecto1.exe
+/Users/victor/Projects/proyecto1/proyecto1/bin/Debug/proyecto1.pdb
+/Users/victor/Projects/proyecto1/proyecto1/obj/x86/Debug/proyecto1.csprojAssemblyReference.cache
+/Users/victor/Projects/proyecto1/proyecto1/obj/x86/Debug/proyecto1.exe
+/Users/victor/Projects/proyecto1/proyecto1/obj/x86/Debug/proyecto1.pdb
+C:\Users\braia\Downloads\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\braia\Downloads\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\braia\Downloads\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\braia\Downloads\proyecto1\proyecto1\obj\x86\Debug\proyecto1.csproj.AssemblyReference.cache
+C:\Users\braia\Downloads\proyecto1\proyecto1\obj\x86\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\braia\Downloads\proyecto1\proyecto1\obj\x86\Debug\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\braia\Downloads\proyecto1\proyecto1\obj\x86\Debug\proyecto1.exe
+C:\Users\braia\Downloads\proyecto1\proyecto1\obj\x86\Debug\proyecto1.pdb
